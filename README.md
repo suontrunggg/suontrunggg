@@ -1,11 +1,11 @@
-<h1 align="center">Hey, I'm Duy 👋</h1>
+<h1 align="center">Hi, I'm Duy 👋</h1>
 
-<h3 align="center">Economics and Data Science Student | Data Analytics & Machine Learning</h3>
+<h3 align="center">Low cortisol guy, high curiosity for data</h3>
 
 <p align="center">
-  I work on data projects that combine analytical thinking with practical machine learning.
+  I study Economics and Data Science, and I like building simple projects from real-world data.
   <br>
-  My interests include predictive modeling, econometrics, data visualization, and interactive dashboards.
+  Data cleaning, visualization, machine learning, dashboards — one notebook at a time.
 </p>
 
 
