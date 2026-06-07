@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Duy 👋</h1>
 
-<h3 align="center">Low cortisol guy, high curiosity for data</h3>
 
 <p align="center">
   I study Economics and Data Science, and I like building simple projects from real-world data.
   <br>
-  Data cleaning, visualization, machine learning, dashboards — one notebook at a time.
+  Data cleaning, visualization, machine learning, dashboards .
 </p>
 
 
