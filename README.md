@@ -118,14 +118,3 @@ A spatial econometrics project exploring economic relationships between Vietname
 
 ---
 
-
-
----
-
-## Connect with Me
-
-<p align="left">
-  <a href="https://github.com/suontrunggg" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-suontrunggg-181717?style=for-the-badge&logo=github" alt="github"/>
-  </a>
-</p>
