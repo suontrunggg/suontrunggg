@@ -16,7 +16,7 @@
 - Interested in Data Analytics, Machine Learning, Econometrics, and Data Visualization  
 - Working with Python, R, SQL, Power BI, and Streamlit  
 - Building portfolio projects using real-world datasets  
-- Currently improving my skills in model evaluation, data visualization, and GitHub project documentation  
+- Currently improving my skills in model evaluation, data visualization, and GitHub project
 
 ---
 
@@ -67,17 +67,10 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="42" height="42"/> 
   </a> 
   
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42"/> 
-  </a> 
-  
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42"/> 
   </a> 
-  
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42"/> 
-  </a> 
+
 </p>
 
 ---
@@ -125,15 +118,7 @@ A spatial econometrics project exploring economic relationships between Vietname
 
 ---
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suontrunggg&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suontrunggg&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
